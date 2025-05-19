@@ -24,3 +24,11 @@ This project demonstrates how to fine-tune a Hugging Face Transformer model for 
 
 ## 📂 Project Structure
 
+social-media-text-classifier/
+├── data/ # Raw and processed data
+├── model/ # Saved model and tokenizer
+├── scripts/ # Training and evaluation scripts
+├── app/ # Inference and API integration (optional)
+├── requirements.txt # Project dependencies
+├── config.yaml # Configuration file
+└── README.md # This file
